@@ -24,6 +24,10 @@
 ---
 
 ## 📸 Screenshots
-![Weather App Screenshot](./screenshots/homepage.png)  
+
+(<img width="1365" height="619" alt="Screenshot 2025-08-31 104758" src="https://github.com/user-attachments/assets/30eff6ad-7441-4b31-b7e8-ac1c1bfd874d" />)
+
+(<img width="1365" height="610" alt="Screenshot 2025-08-31 104811" src="https://github.com/user-attachments/assets/9d5f10b5-5b7c-460e-bab3-12fcde00824a" />)
+
 
 ---
